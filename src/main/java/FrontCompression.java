@@ -68,9 +68,8 @@ public class FrontCompression {
         } else if (corpus.length() == 0) {
             return "";
         }
-        for
-
-        return "";
+        String decompress = corpus.split("\n");
+        for (
     }
 
     /**
